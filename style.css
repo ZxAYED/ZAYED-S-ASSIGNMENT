@@ -1,0 +1,90 @@
+* {
+  font-family: poppins;
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #f6e4eb;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e8d1d9;
+  color: #59323c;
+  padding: 60px 200px  0px 200px ;
+  
+}
+.flower-shop {
+  color: rgb(203, 66, 90);
+}
+#h1 {
+  font-size: 38px;
+  font-weight: 700;
+
+  padding-bottom: 30px;
+}
+.header-description {
+ max-width: 50%;
+}
+.flower-icon {
+  height: 500px;
+  width: 450px;
+}
+.shop-btn{
+padding: 20px;
+background-color: rgb(107, 34, 72);
+color:#e8d1d9;
+border: none;
+border-radius: 20px;
+margin-top:20px;
+
+}
+.article-1{
+   padding:100px;
+    max-width: 40%;
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+    color: #59323c
+}
+.flowers-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   gap:20px;
+   text-align: center;
+ 
+   
+
+
+}
+.flowers-section-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:20px 360px 20px 370px;
+    color: #59323c;
+ 
+   
+   
+
+
+}
+.flowers-logo{
+   
+    height: 200px;
+    width: 200px;
+   
+   
+}
+.flower-area{
+    
+    display: flex;
+    height: 300px;
+    width: 300px;
+    border-radius: 350px 350px 0px 0px  ;
+    background-color:#e8d1d9;
+   align-items: flex-end;
+   justify-content: center;
+}
