@@ -17,8 +17,8 @@ body {
 .flower-shop {
   color: rgb(203, 66, 90);
 }
-.flower-shop:hover{
-    color: #59323c;
+.flower-shop:hover {
+  color: #59323c;
 }
 #h1 {
   font-size: 38px;
@@ -44,8 +44,8 @@ body {
   margin-top: 20px;
   cursor: pointer;
 }
-.shop-btn:hover{
-    background-color:#bb466f;
+.shop-btn:hover {
+  background-color: #bb466f;
 }
 .article-1 {
   padding: 100px;
@@ -89,7 +89,6 @@ main div div a {
   justify-content: center;
   cursor: pointer;
   box-shadow: 5px 5px 10px #bb466f;
-
 }
 .flower-area-2 {
   display: flex;
@@ -101,7 +100,6 @@ main div div a {
   justify-content: center;
   cursor: pointer;
   box-shadow: 5px 5px 10px #bb466f;
-
 }
 .flower-area-3 {
   display: flex;
@@ -123,149 +121,144 @@ main div div a {
   text-align: center;
   align-items: center;
   font-size: 18px;
-  padding:60px 0px;
+  padding: 60px 0px;
 }
-.article-para{
-    max-width: 50%;
-    margin: 0px auto;
-    
-    padding: 20px 0px  ;
+.article-para {
+  max-width: 50%;
+  margin: 0px auto;
+
+  padding: 20px 0px;
 }
-.flower-icon-2{
-    height: 300px;
-    width: 300px;
-    cursor: pointer;
-    padding-right: 150px;
+.flower-icon-2 {
+  height: 300px;
+  width: 300px;
+  cursor: pointer;
+  padding-right: 150px;
 }
-.flower-cover{
-    height:200px;
-    width: 200px;
+.flower-cover {
+  height: 200px;
+  width: 200px;
 }
-.social-media{
+.social-media {
   text-align: center;
-   font-size: 16px; 
-    
+  font-size: 16px;
+
   color: #59323c;
-    max-width: 60%;
-    
-    margin:120px auto 0px auto;
+  max-width: 60%;
+
+  margin: 120px auto 0px auto;
 }
-.flower-area-4{
+.flower-area-4 {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap:40px;
-  margin: 60px 0px ;
- 
+  gap: 40px;
+  margin: 60px 0px;
 }
-.article-3{
+.article-3 {
   height: 445px;
   text-align: center;
-background-image: url("/Flower-Asset/Rectangle-9.png");
+background-image: url("Rectangle-9.png");
   background-repeat: no-repeat;
- margin:100px 280px;
- display:flex;
- justify-content: center;
- align-items: center;
+  margin: 100px 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: #59323c;
   padding: 0px 20px 0px 300px;
   font-size: 22px;
   box-shadow: 5px 5px 10px #bb466f;
 }
-.input{
-padding: 10px 20px;
-font-size: 16px;
-border: none;
-width: 400px;
-margin-right: 10px;
-border-radius: 20px;
+.input {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  width: 400px;
+  margin-right: 10px;
+  border-radius: 20px;
 }
-.Flower-cards{
-  display:flex;
+.Flower-cards {
+  display: flex;
   align-items: center;
   justify-content: space-between;
-  padding:80px;
-  background-color:#e8d1d9 ;
-  margin:80px 140px;
+  padding: 80px;
+  background-color: #e8d1d9;
+  margin: 80px 140px;
   border-radius: 30px;
   color: #59323c;
-  
 }
-.cards{
-  height:200px;
+.cards {
+  height: 200px;
   width: 200px;
   border-radius: 30px;
   box-shadow: 5px 5px 10px #bb466f;
   cursor: pointer;
 }
-body main section > h1{
+body main section > h1 {
   text-align: center;
-  margin:80px 80px 0px 80px;
+  margin: 80px 80px 0px 80px;
   color: #59323c;
 }
-body main section > p{
+body main section > p {
   text-align: center;
- 
+
   color: #59323c;
 }
-h5{
+h5 {
   text-align: center;
-  padding-top:30px;
-  font-size:16px ;
-  
- 
+  padding-top: 30px;
+  font-size: 16px;
 }
-.social-logo{
+.social-logo {
   height: 200px;
   width: 200px;
-  margin:20px 40px; 
+  margin: 20px 40px;
   cursor: pointer;
 }
-.article-4{
+.article-4 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color:#e8d1d9;
-  margin:0px 160px;
-  padding:30px;
-  color:#59323c;
+  background-color: #e8d1d9;
+  margin: 0px 160px;
+  padding: 30px;
+  color: #59323c;
   border-radius: 20px;
-  font-size:18px;
+  font-size: 18px;
 }
-.flower-shop-2{
+.flower-shop-2 {
   color: rgb(8, 87, 206);
 }
-.flower-shop-2:hover{
+.flower-shop-2:hover {
   color: #59323c;
 }
-.icon{
+.icon {
   height: 40px;
   width: 40px;
   cursor: pointer;
 }
-footer{
+footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #9BABB8;
-  color:#50172b;
+  background-color: #9babb8;
+  color: #50172b;
   text-align: center;
-  font-size: 18px;;
+  font-size: 18px;
 }
-.footer-description{
-  padding:100px 100px 00px 100px;
-  width:50%;
-  
+.footer-description {
+  padding: 100px 100px 00px 100px;
+  width: 50%;
 }
-.logo-align{
-padding: 20px;
-display: flex;
-justify-content: center;
-gap:20px
+.logo-align {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
 }
-.flower-shop-3{
-  color:#50172b;
+.flower-shop-3 {
+  color: #50172b;
 }
-.last-para{
+.last-para {
   padding-top: 30px;
 }
